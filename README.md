@@ -5,6 +5,8 @@
 ![Dependencies](https://img.shields.io/badge/External%20Dependencies-None-FFC857?style=flat-square)
 ![Course](https://img.shields.io/badge/B.Tech%20CSE%20(AI)-3rd%20Semester-4C566A?style=flat-square)
 
+![Payroll Pro Application Preview](./payroll_pro.png)
+
 An academic desktop application developed in **Python** using exclusively the built-in **`tkinter`** GUI toolkit (along with Python's standard `datetime` module for timestamps) to automate employee salary computation, attendance-based pro-rating, formatted payslip generation, and local payroll record management.
 
 ---
