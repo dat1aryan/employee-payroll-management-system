@@ -13,14 +13,16 @@ An academic desktop application developed in **Python** using exclusively the bu
 
 ## Academic Submission Details
 
+
 | Attribute | Details |
 | :--- | :--- |
-| **Project Title** | Payroll Pro — Employee Payroll Management System |
+| **Project Title** | Payroll Pro — Employee Payroll Management System (Project #7) |
 | **Author** | Aryan Pankaj Kumar |
+| **University** | Shoolini University |
 | **Program** | B.Tech in Computer Science & Engineering (Artificial Intelligence) |
 | **Semester** | 3rd Semester |
 | **Subject** | Python Programming Assignment |
-| **Faculty Mentor** | Bijay Sir |
+| **Faculty Mentor** | Bijay Sir (byteXL) |
 | **Implementation Stack** | Python 3, `tkinter` (GUI), Standard Text File I/O (`payslips.txt`) |
 
 ---
