@@ -175,4 +175,4 @@ python payroll_pro.py
 Developed and submitted as a **3rd Semester Python Programming Assignment** for **B.Tech CSE (Artificial Intelligence)**.  
 Sincere gratitude to **Bijay Sir** for his guidance, mentorship, and instruction throughout the course.
 
-**Author:** [Aryan Pankaj Kumar](https://github.com/dat1aryan)
+**Author:** [Aryan Pankaj Kumar](https://www.linkedin.com/in/aryanpankajkumar/)
